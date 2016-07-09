@@ -1,0 +1,14 @@
+{
+  "generator-kraken": {
+    "taskModule": "grunt",
+    "lintModule": "eslint",
+    "description": "Paypal social hack 2016",
+    "author": "khanh dao",
+    "templateModule": "dustjs",
+    "i18n": false,
+    "componentPackager": false,
+    "cssModule": "less",
+    "jsModule": "browserify",
+    "useJson": null
+  }
+}
