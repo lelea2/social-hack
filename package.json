@@ -20,7 +20,8 @@
     "engine-munger": "^0.2.9",
     "eslint": "^1.10.3",
     "express": "^4.12.2",
-    "kraken-js": "^2.0.0"
+    "kraken-js": "^2.0.0",
+    "bootstrap": "^3.3.6"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
