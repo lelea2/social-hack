@@ -1,4 +1,5 @@
 social-hack
 ===========
 
-Paypal social hack 2016
+Giving Tree wish list
+Build on Kraken with CMS system parsing csv files.
